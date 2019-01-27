@@ -5,4 +5,4 @@
   * 얼마나 자주 재학습시켜야 하는가
   * 데이터의 트렌드를 모니터링하면서 무엇을 측정히야 하는가 
 
-* [시계열 데이터 모델링과 교차 검증(cross-validation)](./time_series.md)
+* [시계열 데이터 모델링과 교차 검증(cross-validation)](./blog/time_series.md)

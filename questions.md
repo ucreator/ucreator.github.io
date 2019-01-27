@@ -24,6 +24,10 @@
   * test and select the best model
   * deploy
 
+cf. 
+  * [by IBM](https://www.ibmbigdatahub.com/blog/why-we-need-methodology-data-science){:target="_blank"}
+  * [by biggreenbox](https://medium.com/@biggreenbox/our-5-step-methodology-for-predictive-analytics-79fa22c5f3be){:target="_blank"}
+
 #### Forecasting with Time-Series
   * decomposition trend, seasonality, noise
   * time-series and cross-validataion

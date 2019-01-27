@@ -22,7 +22,7 @@
     * Box-Cox transformation $x'_{\lambda} = \frac{x^{\lambda}-1}{\lambda}$
   * modeling
   * test and select the best model
-  * deploy
+  * deployment
 
 cf. 
   * [by IBM](https://www.ibmbigdatahub.com/blog/why-we-need-methodology-data-science){:target="_blank"}

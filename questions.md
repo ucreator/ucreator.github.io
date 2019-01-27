@@ -19,7 +19,7 @@
   * interpretation of problem
   * exploratory data analysis (EDA)
   * feature engineering
-    * Box-Cox transformation
+    * Box-Cox transformation $x'_{\lambda} = \frac{x^{\lambda}-1}{\lambda}$
   * modeling
   * test and select the best model
   * deploy

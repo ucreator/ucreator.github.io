@@ -15,8 +15,6 @@
 
 시계열 데이터를 사용하여 모델링할 때 교차검증 위해 데이터를 어떻게 분할해야 하는지 알아보자.
 
-
-
 ### 참고문서 ###
   * [Time Series Nested Cross-Validation](https://towardsdatascience.com/time-series-nested-cross-validation-76adba623eb9) by Courtney Cochrane
   * [Cross-validation for time series](https://robjhyndman.com/hyndsight/tscv/) by Rob J Hyndman

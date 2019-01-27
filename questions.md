@@ -1,8 +1,58 @@
-## Questions
+## What I Am Learning
 
-* 모형 재학습
+### Basic Statistics
+
+#### Comparison Two Probability Distributions
+  * Kuiper's test
+  * Kolmogorov–Smirnov test (K-S)
+  * (J-S)
+  * ...
+
+#### Time-Series
+  * auto-correlation
+  * stationary states
+  * forecasting
+
+### Machine Learning (ML)
+
+#### Analytics Methodology
+
+#### Forecasting with Time-Series
+  * decomposition trend, seasonality, noise
+  * time-series and cross-validataion
+
+#### Tree-Based Model
+  * decision tree
+  * random forest
+  * gradient boosting model
+
+#### Artificial Intelligence (AI)
+  * reinforcement learning
+  * applications
+    * auto driving
+    * alphaGo
+
+### Tools
+
+#### Languages
+  * Python
+  * R
+  * C++
+
+#### Architecture
+  * Hadoop
+  * Spark
+
+### Business
+  * marketing
+  * supply chain management (SCM)
+  * taxing
+
+### Questions
+
+#### 모형 재학습
   * 학습한 모형을 재학습시켜야 할 때는 언제인가
   * 얼마나 자주 재학습시켜야 하는가
   * 데이터의 트렌드를 모니터링하면서 무엇을 측정히야 하는가 
 
-* [시계열 데이터 모델링과 교차 검증(cross-validation)](./blog/time_series.md)
+#### [시계열 데이터 모델링과 교차 검증(cross-validation)](./blog/time_series.md)

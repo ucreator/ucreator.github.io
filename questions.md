@@ -16,6 +16,13 @@
 ### Machine Learning (ML)
 
 #### Analytics Methodology
+  * interpretation of problem
+  * exploratory data analysis (EDA)
+  * feature engineering
+    * Box-Cox transformation
+  * modeling
+  * test and select the best model
+  * deploy
 
 #### Forecasting with Time-Series
   * decomposition trend, seasonality, noise

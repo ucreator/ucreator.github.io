@@ -2,6 +2,7 @@
 title: "What I Am Learning"
 date: 2019-01-30 00:25:00 +0900
 categories: machine-learning
+use_math: true
 ---
 
 ## What I Am Learning

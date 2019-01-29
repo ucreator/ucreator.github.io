@@ -1,7 +1,7 @@
 ---
 title: "What I Am Learning"
-date: 2019-01-30 00:00:03
-categories: machine learning
+date: 2019-01-30 00:22:00 +0900
+categories: machine_learning
 ---
 
 ## What I Am Learning

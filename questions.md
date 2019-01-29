@@ -2,16 +2,28 @@
 
 ### Basic Statistics
 
-#### Comparison Two Probability Distributions
+#### Comparison Two Probability Distributions (Statistical distance)
+  * Kullback–Leibler divergence (K-L)
   * Kuiper's test
   * Kolmogorov–Smirnov test (K-S)
-  * (J-S)
+  * Jensen–Shannon divergence (J-S)
   * ...
+
+cf. [Statistical distance](https://en.wikipedia.org/wiki/Statistical_distance){:target="_blank"} in Wikipedia
+
+#### Distance Between Two Strings
+  * Levenshtein distance (Edit distance)
 
 #### Time-Series
   * auto-correlation
   * stationary states
   * forecasting
+  * moving average
+  * exponential smoothing
+  * Holt-Winters'
+  * ARIMA
+
+cf. [Forecasting: Principles and Practice](https://otexts.com/fpp2/){:target="_blank"} by Rob J Hyndman and George Athanasopoulos
 
 ### Machine Learning (ML)
 
@@ -64,6 +76,6 @@ cf.
 #### 모형 재학습
   * 학습한 모형을 재학습시켜야 할 때는 언제인가
   * 얼마나 자주 재학습시켜야 하는가
-  * 데이터의 트렌드를 모니터링하면서 무엇을 측정히야 하는가 
+  * 데이터의 트렌드를 모니터링하면서 무엇을 측정해야 하는가 
 
 #### [시계열 데이터 모델링과 교차 검증(cross-validation)](./blog/time_series.md)

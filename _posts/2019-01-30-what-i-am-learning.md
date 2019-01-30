@@ -3,6 +3,7 @@ title: "What I Am Learning"
 date: 2019-01-30 13:42:00 +0900
 categories: machine-learning
 use_math: true
+tags: [statistics, machine learning, ai, forecasting, modeling, time-series]
 ---
 
 ## What I Am Learning

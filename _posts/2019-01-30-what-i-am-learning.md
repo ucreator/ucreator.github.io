@@ -38,7 +38,8 @@ cf. [Forecasting: Principles and Practice](https://otexts.com/fpp2/){:target="_b
   * interpretation of problem
   * exploratory data analysis (EDA)
   * feature engineering
-    * Box-Cox transformation $x'_{\lambda} = \frac{x^{\lambda}-1}{\lambda}$
+    * [Box-Cox transformation](/machine-learning/box-cox-transformation/)
+    * [Yeo-Johnson transformation]((/machine-learning/box-cox-transformation/))
   * modeling
   * test and select the best model
   * deployment

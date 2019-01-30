@@ -39,7 +39,7 @@ cf. [Forecasting: Principles and Practice](https://otexts.com/fpp2/){:target="_b
   * exploratory data analysis (EDA)
   * feature engineering
     * [Box-Cox transformation](/machine-learning/box-cox-transformation/)
-    * [Yeo-Johnson transformation]((/machine-learning/box-cox-transformation/))
+    * [Yeo-Johnson transformation](/machine-learning/box-cox-transformation/)
   * modeling
   * test and select the best model
   * deployment

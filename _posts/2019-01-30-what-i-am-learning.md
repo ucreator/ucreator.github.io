@@ -62,6 +62,9 @@ cf.
   * applications
     * auto driving
     * alphaGo
+    * music composition
+
+#### Interpretable Machine Learning, Explainable AI (XAI)
 
 ### Tools
 

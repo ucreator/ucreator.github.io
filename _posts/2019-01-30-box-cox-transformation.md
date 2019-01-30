@@ -3,6 +3,7 @@ title: "Box-Cox Transformation"
 date: 2019-01-30 22:10:00 +0900
 categories: machine-learning
 use_math: true
+tags: [box-cox, yeo-johnson, power transform, gaussian, normal distribution, feature engineering]
 ---
 
 Box-Cox Transformation

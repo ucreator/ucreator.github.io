@@ -6,7 +6,7 @@ use_math: true
 tags: [box-cox, yeo-johnson, power transform, gaussian, normal distribution, feature engineering]
 ---
 
-Box-Cox Transformation
+# Box-Cox Transformation
 
 $x$ 가 정규분포가 아닌 경우 분포 자체를 적당히 변환시켜서 정규분포에 최대한 가깝게 만들어 준다.
 정규분포가 왜 중요한가? 여러 통계 기법들이 확률 변수의 정규분포를 가정하고 있기 때문에 정규분포를 따르는 확룰 변수에는 적용할 방법들이 많아진다.
@@ -25,10 +25,12 @@ scikit-learn의 preprocessing.PowerTransformer 함수는 maximum likelihood esti
 Box-Cox 변환을 위해서는 $x$가 양수이어야 한다.
 이를 음수값이 포함된 데이터에도 적용할 수 있도록 확장하여 
 
-$$ x'_{(\lambda_1, \lambda_2)} = \frac{(x+\lambda_2)^\lambda_1-1}{\lambda_1} $$
+$$ x'_{(\lambda_1, \lambda_2)} = \frac{(x+\lambda_2)^{\lambda_1}-1}{\lambda_1} $$
 를 사용하기도 한다. 
 
-$\lambda_2$ 는 음수인 최소값에 절대값을 씌운 값보다 크면 된다. 즉, 각 데이터에 더했을 때 모든 데이터를 양수로 만들 수 있는 수.
+$\lambda_2$ 는 최소값(<0)의 절대값보다 크면 된다. 즉, 각 데이터에 더했을 때 모든 데이터를 양수로 만들 수 있는 수.
+
+# Yeo-Johnson Transformation
 
 이를 더 일반화시킨 Yeo-Johnson transformation 은 아래와 같다.
 $$
